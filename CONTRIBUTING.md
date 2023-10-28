@@ -4,7 +4,7 @@ Please go through the following step-by-step process to contribute to this proje
 
 This is a MATLAB function examples project here we need to follow these steps
 
-step1: Give a star to this project(optional)
+step1: Give a star ⭐ to this project (optional)
 
 step2: Click on the fork button on the top right and wait a few seconds to complete the forking of this project
 
